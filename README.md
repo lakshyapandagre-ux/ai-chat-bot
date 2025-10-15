@@ -16,5 +16,5 @@ This is a smart auto-reply bot built in Python that reads messages from your scr
 
 ### 1️⃣ Clone this repo
 ```bash
-git clone https://github.com/<your-username>/ai-chat-bot.git
-cd ai-chat-bot
+git git clone https://github.com/lakshyapandagre-ux/ai-chat-bot.git
+
