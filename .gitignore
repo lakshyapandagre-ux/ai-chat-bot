@@ -1,0 +1,33 @@
+# --- Environment files ---
+.env
+.env.*
+
+# --- Python cache & bytecode ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+venv/
+ENV/
+env/
+.venv/
+
+# --- IDE / Editor settings ---
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# --- Logs & temp files ---
+*.log
+*.tmp
+*.bak
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- Jupyter / misc ---
+.ipynb_checkpoints/
